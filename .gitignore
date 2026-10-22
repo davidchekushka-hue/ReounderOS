@@ -1,0 +1,25 @@
+# Бинарники и объектные файлы
+*.o
+reoshell
+reoinstall
+init
+init-vm
+init-pc
+bootmenu
+
+# Готовые образы и диски
+*.iso
+*.img
+*.cpio.gz
+*.squashfs
+
+# Папки сборки и распакованные системы (они огромные)
+alpine-root/
+iso/
+iso-virt/
+iso-classic/
+rootfs/
+
+# Временные файлы
+*.log
+tmp/
